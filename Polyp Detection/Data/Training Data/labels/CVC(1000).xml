@@ -1,0 +1,25 @@
+<annotation>
+  <folder>polyp</folder>
+  <filename>mask-612(1).tif</filename>
+  <source>
+    <database>unknown</database>
+  </source>
+  <size>
+    <width>384</width>
+    <height>288</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>polyp</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>41</xmin>
+      <ymin>156</ymin>
+      <xmax>264</xmax>
+      <ymax>280</ymax>
+    </bndbox>
+  </object>
+</annotation>
