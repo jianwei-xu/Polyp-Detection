@@ -23,7 +23,7 @@ python test_visualization_video.py --input "Data\Testing Data\videos\video1\vide
 
 6. False Positive Relearning Module
 python FPRM.py
-The new generated labels are in "Data\Training Data\fplabels".
+The new generated labels are in "Data\Training Data\labels_FPRM".
 When training, please replace the corresponding labels in "train.txt" with the new generated labels.
 
 7. Image Style Transfer Module
