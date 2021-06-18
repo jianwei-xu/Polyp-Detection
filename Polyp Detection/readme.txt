@@ -1,5 +1,6 @@
 This code is based on the work of qqwweee/keras-yolo3. I'm really grateful to the [original implementation](https://github.com/qqwweee/keras-yolo3) by the authors, which is very useful.
 This project only includes main source code. For the complete model and data, please refer to http://202.120.40.153:5000/sharing/3CJbMyYMd.
+If you refer to or use this code, please cite the paper —— Xu J, Zhao R, Yu Y, et al. Real-time automatic polyp detection in colonoscopy using feature enhancement module and spatiotemporal similarity correlation unit[J]. Biomedical Signal Processing and Control, 2021, 66: 102503.
 If you have any questions, please contact xujw96@foxmail.com. 
 
 1. Training:
